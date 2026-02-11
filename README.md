@@ -1,4 +1,4 @@
-# github-final-project
+[# github-final-project
 A calculator that calculates simple interest given principal, annual rate of interest ad timr period
 
 
@@ -9,3 +9,4 @@ r, annual rate of interest
 
 Output
 simple interest = p*t*r
+](https://github.com/sbgayathri/github-final-project/blob/main/README.md)
